@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Front End , UI , UX**
 
-- 📫 How to reach me **unknownnn@duck.com**
+- 📫 How to reach me **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>**
 
 - ⚡ Fun fact **Be unstoppable and 𝔗𝔢𝔫𝔞𝔠𝔦𝔬𝔲𝔰 ⚡**
 
