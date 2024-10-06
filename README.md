@@ -79,3 +79,5 @@
 </p>
 
 ![](https://visitcount.itsvg.in/api?id=miles-spidee&icon=8&color=5)
+
+<p>Banner GIF Credits: <a href src="https://imgur.com/user/DarkGaming3869">DarkGaming3869</a> 🌟</p>
