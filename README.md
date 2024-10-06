@@ -19,7 +19,7 @@
 - Passionate in **Front-End** , **UI** & **UX** 🎨
 - Open to **collaboration** on web projects and innovative ideas ⚡
 - Building myself daily 📈
-- 📫 How to reach me **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>**
+- 📫 Reach me on my **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>**
 
 ---
 
