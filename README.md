@@ -3,7 +3,7 @@
 <div align="center">
 
   # 👋 Hi, I'm 𝙼𝚒𝚕𝚎𝚜  
-  ### Crafting websites with love and precision ✨
+  ### crafting websites with 𝖑𝖔𝖛𝖊 and 𝖕𝖗𝖊𝖈𝖎𝖘𝖎𝖔𝖓✨
 
 </div>
 
@@ -19,7 +19,7 @@
 - Passionate in **Front-End** , **UI** & **UX** 🎨
 - Open to **collaboration** on web projects and innovative ideas ⚡
 - Building myself daily 📈
-- 📫 Reach me on my **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>**
+- Reach me on my **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>** 📫
 
 ---
 
@@ -71,4 +71,4 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miles-spidee&label=Profile%20views&color=0e75b6&style=flat" alt="miles-spidee" /> </p>
+![](https://visitcount.itsvg.in/api?id=miles-spidee&icon=8&color=5)
