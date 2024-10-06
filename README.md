@@ -21,6 +21,13 @@
 - Building myself daily 📈
 - Reach me on my **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>** 📫
 
+### ❤️ **Hobbies**
+- Programming 👨‍💻
+- Driving 🚗
+- Soccer ⚽
+- Painting, Drawing 🎨
+- Gaming 🎮
+- Cubing (Ao5 25sec) 🌟
 ---
 
 ## ⚒️ **Tools & Technologies**
