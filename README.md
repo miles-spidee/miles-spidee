@@ -11,7 +11,7 @@
 
 ### 🌱 **Currently Learning**
 - improving **JavaScript** & **Python** ⬆️
-- improving in **UI** 🖼️
+- learning in **Tailwind** 🖼️
 
 ---
 
