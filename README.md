@@ -11,7 +11,7 @@
 
 ### 🌱 **Currently Learning**
 - improving **JavaScript** & **Python** ⬆️
-- learning **Tailwind** <img src="https://external-content.duckduckgo.com/iu/?u=https://tse3.mm.bing.net/th?id%3DOIP.DAd4ProxJ7RhaQ6iJZxoSAHaHT%26pid%3DApi&f=1&ipt=bf71b18ae450e07167136241e7f543195ffc4e700cac47ed3220627d50ef81b3&ipo=images" alt="tailwind" width='20'>
+- learning **React** ⚛️
 
 ---
 
