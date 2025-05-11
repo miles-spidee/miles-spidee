@@ -10,8 +10,8 @@
 ---
 
 ### 🌱 **Currently Learning**
-- improving **JavaScript** & **Python** ⬆️
-- learning **React** ⚛️
+- improving **REACT** & **Python** ⬆️
+- learning **C** & **Node** ⚛️
 
 ---
 
