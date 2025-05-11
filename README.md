@@ -55,14 +55,6 @@
 
 ## 📊 **GitHub Stats**
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=miles-spidee&theme=omni&hide_border=false&include_all_commits=true&count_private=true) &nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=miles-spidee&theme=omni&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-spidee&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 
 
 ---
@@ -78,6 +70,6 @@
   </a>
 </p>
 
-![](https://visitcount.itsvg.in/api?id=miles-spidee&icon=8&color=5)
+
 
 <p>Banner GIF Credits: <a href src="https://imgur.com/user/DarkGaming3869">DarkGaming3869</a> 🌟</p>
