@@ -70,6 +70,6 @@
   </a>
 </p>
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=miles-spidee)
 
 <p>Banner GIF Credits: <a href src="https://imgur.com/user/DarkGaming3869">DarkGaming3869</a> 🌟</p>
