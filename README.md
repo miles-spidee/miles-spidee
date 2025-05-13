@@ -3,7 +3,7 @@
 <div align="center">
 
   # 👋 Hi, I'm 𝙼𝚒𝚕𝚎𝚜  
-  ### crafting websites with 𝖑𝖔𝖛𝖊 and 𝖕𝖗𝖊𝖈𝖎𝖘𝖎𝖔𝖓✨
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=453&lines=crafting+websites+with+%F0%9D%96%91%F0%9D%96%94%F0%9D%96%9B%F0%9D%96%8A+and+%F0%9D%96%95%F0%9D%96%97%F0%9D%96%8A%F0%9D%96%88%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%8E%F0%9D%96%94%F0%9D%96%93" alt="Typing SVG" /></a>
 
 </div>
 
