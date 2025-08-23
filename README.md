@@ -23,6 +23,8 @@
 
 </div>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/AkilanCK.png" alt="Your Image Badge" />
+
 ---
 
 ### **- GitHub Stats**:
