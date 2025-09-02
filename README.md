@@ -29,7 +29,7 @@
 
 </div>
 <div align="center">
-<a href="https://tryhackme.com/p/akilanck"><img src="https://tryhackme-badges.s3.amazonaws.com/AkilanCK.png" alt="Your Image Badge" /></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/AkilanCK.png" alt="Your Image Badge" />
 </div>
 
 ---
