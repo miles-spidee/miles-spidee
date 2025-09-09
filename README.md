@@ -44,7 +44,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=miles-spidee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💬 **Connect with Me**
+## 💬 **Connect with Me** <img src="https://s4.gifyu.com/images/handshake.gif" alt="Handshake" width="40" />
 
 <p align="center">
 	  <a href="https://instagram.com/miles_spidee" target="_blank">
